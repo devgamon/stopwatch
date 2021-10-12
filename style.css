@@ -1,0 +1,37 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #4F4F4F;
+}
+
+h1{
+    color: white;
+}
+
+div{
+    text-align: center;
+}
+
+button{
+    height: 2.2em;
+    width: 5.5em;
+    border: none;
+    border-radius: 7px;
+    color: white;
+}
+
+button:hover{
+    cursor: pointer;
+}
+
+.start-btn{
+    background-color: #228B22;
+}
+
+.pause-btn{
+    background-color: #f8d926;
+}
+
+.reset-btn{
+    background-color: rgb(252, 19, 19);
+}
