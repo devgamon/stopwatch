@@ -1,7 +1,8 @@
 ## Projeto
 <br>
-
-<img align="center" height="300em" src="https://github.com/devgamon/stopwatch/blob/main/assets/img/stop.png">
+<p align="center"> 
+<img height="300em" src="https://github.com/devgamon/stopwatch/blob/main/assets/img/stop.png">
+  </p>
 
 <br>
 
