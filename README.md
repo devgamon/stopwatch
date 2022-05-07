@@ -3,7 +3,7 @@
 <p align="left"> This repository was created with the sole purpose of testing my current skills with Javascript, even though it is a project with a low level of difficulty, it is one of the most "classic" ways to test learning in Javascript. In a nutshell, the project basically consists of a "chronometer" that works using pure javascript as fuel.</p>
 
 <p align="center"> 
-<img height="250em" src="https://github.com/devgamon/stopwatch/blob/main/assets/img/stop.png">
+<img height="400em" src="https://github.com/devgamon/stopwatch/blob/main/assets/img/stop.png">
 </p>
 
 ## Techstack
